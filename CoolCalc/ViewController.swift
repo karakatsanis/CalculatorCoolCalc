@@ -3,7 +3,7 @@
 //  CoolCalc
 //
 //  Created by Karakatsanis Georgios on 5/5/20.
-//  Copyright © 2020 Wrk.gr. All rights reserved.
+//  Copyright © 2020 All rights reserved.
 //
 
 import UIKit
